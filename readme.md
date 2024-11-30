@@ -39,7 +39,6 @@ This project focuses on **Weight Training Analysis** using Mediapipe for pose de
 Make sure you have the following installed:
 
 - Python 3.8+
-- FFmpeg (for video processing)
 
 ### Steps
 
@@ -81,18 +80,6 @@ Make sure you have the following installed:
 5. You can download the processed video once the analysis is complete.
 
 ---
-
-Install all dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Demo
-
-![Final Output Demo](final_output.gif)
 
 ## Contributing
 
