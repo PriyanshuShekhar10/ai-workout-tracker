@@ -29,7 +29,7 @@ This project focuses on **Weight Training Analysis** using Mediapipe for pose de
 ### Final Output
 
 ![Final Output Demo](final_output.gif)
-
+credit for video : [Shubhashish Sinha](https://github.com/shubhsinha)
 ---
 
 ## Installation
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Author
-
+        
 **Priyanshu Singh**  
 ID: 2021B5AB2797P
 
