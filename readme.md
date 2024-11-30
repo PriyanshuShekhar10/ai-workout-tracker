@@ -29,7 +29,10 @@ This project focuses on **Weight Training Analysis** using Mediapipe for pose de
 ### Final Output
 
 ![Final Output Demo](final_output.gif)
-credit for video : [Shubhashish Sinha](https://github.com/shubhsinha)
+
+<small><font color="gray">credit for video : [Shubhashish Sinha](https://github.com/shubhsinha)</font></small>
+
+
 ---
 
 ## Installation
