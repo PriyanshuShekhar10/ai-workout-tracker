@@ -47,7 +47,7 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/Priyanshushekhar10/ai-workout-tracker.git
-   cd weight-training-analysis
+   cd ai-workout-tracker
    ```
 
 2. Install the required dependencies:
